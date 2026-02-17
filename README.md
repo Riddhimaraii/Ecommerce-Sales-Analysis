@@ -16,19 +16,19 @@ Ecommerce-Sales-Analysis
 
 The dataset used in this project (Sample - Superstore.csv) contains typical e-commerce sales data that may include features such as:
 
-Order ID
+•Order ID
 
-Order Date
+•Order Date
 
-Sales Amount
+•Sales Amount
 
-Product Category
+•Product Category
 
-Profit
+•Profit
 
-Region
+•Region
 
-Customer Segment
+•Customer Segment
 
 This dataset is used to perform sales performance evaluations, trend analysis, product insights, and other business intelligence tasks.
 
@@ -36,17 +36,17 @@ This dataset is used to perform sales performance evaluations, trend analysis, p
 
 The analysis in this project is conducted using:
 
-Python
+•Python
 
-Jupyter Notebook
+•Jupyter Notebook
 
-Pandas
+•Pandas
 
-NumPy
+•NumPy
 
-Matplotlib
+•Matplotlib
 
-Seaborn
+•Seaborn
 
 These tools help with data cleaning, manipulation, and visualization.
 
@@ -54,17 +54,17 @@ These tools help with data cleaning, manipulation, and visualization.
 
 The notebook includes:
 
-Data loading and inspection
+•Data loading and inspection
 
-Handling missing values and data types
+•Handling missing values and data types
 
-Sales trend analysis over time
+•Sales trend analysis over time
 
-Category and product performance insights
+•Category and product performance insights
 
-Visualizations such as bar plots, line charts, and distribution plots
+•Visualizations such as bar plots, line charts, and distribution plots
 
-Actionable business insights based on the data
+•Actionable business insights based on the data
 
 🚀 How to Run the Project
 
@@ -86,13 +86,13 @@ Open and run Ecommerce sales analysis.ipynb to view the analysis.
 
 Here are some ideas to expand or improve the project:
 
-Add interactive dashboards using Plotly or Streamlit
+•Add interactive dashboards using Plotly or Streamlit
 
-Perform forecasting on sales trends
+•Perform forecasting on sales trends
 
-Build classification or clustering models to segment customer groups
+•Build classification or clustering models to segment customer groups
 
-Integrate Power BI or Tableau for visual reporting
+•Integrate Power BI or Tableau for visual reporting
 
 📫 Feedback & Contributions
 
